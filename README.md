@@ -48,5 +48,4 @@ http://149.56.241.86:25461/eliplextv/eliplex9202tv/6984
 #EXTINF:-1,XXX | Playboy HD
 http://149.56.241.86:25461/eliplextv/eliplex9202tv/8150
 #EXTINF:-1,XXX | Playboy
-http://83.139.104.99/Content/HLS/Live/chanel(playboy_tv)
-/stream(03)/index.m3u8
+http://83.139.104.99/Content/HLS/Live/chanel(playboy_tv)/stream(03)/index.m3u8
